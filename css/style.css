@@ -409,6 +409,7 @@ img {
 .hero {
   position: relative;
   height: 100%;
+  background-image: url("img/back.jpg");
   background-color: #82C6C3; }
   .hero .to-bottom {
     position: absolute;
@@ -436,8 +437,8 @@ img {
   color: #fff; }
 
 .hero__photo {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 3em;
   -webkit-border-radius: 50%;
   border-radius: 50%;
