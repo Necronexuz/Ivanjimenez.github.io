@@ -2,7 +2,7 @@ name: Ashwin kumar
 markdown: redcarpet
 pygments: true
 
-url: "http://ivanjimenezr.me"
+url: "http://ivanjimenez.me"
 baseurl: "/"
 
 permalink: /posts/:title
